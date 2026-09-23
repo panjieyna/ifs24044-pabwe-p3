@@ -10,7 +10,7 @@ Aplikasi web satu halaman dengan tiga fitur, dipisah menggunakan tab:
 ## Struktur Proyek
 
 ```
-usernamekamu-pabwe-p3/
+ifs24044-pabwe-p3/
 ├── index.html          # markup semantik: header, nav (tab), main (3 panel), footer, modal
 ├── assets/
 │   ├── script.js       # seluruh logika JS, dikelompokkan per fitur (IIFE) + util bersama
