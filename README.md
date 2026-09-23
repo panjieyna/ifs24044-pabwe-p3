@@ -1,8 +1,5 @@
 # LaciKu — Studi Kasus PABWE P3
 
-> ⚠️ **Sebelum dikumpulkan:** ganti nama folder proyek ini dari
-> `usernamekamu-pabwe-p3` menjadi `{username-kamu}-pabwe-p3`
-> (contoh: `ifs18005-pabwe-p3`) sesuai ketentuan.
 
 Aplikasi web satu halaman dengan tiga fitur, dipisah menggunakan tab:
 
