@@ -32,17 +32,3 @@ ifs24044-pabwe-p3/
 - Ubah dan hapus data memakai **modal**, bukan `prompt()`/`confirm()` bawaan browser.
 - Styling memakai Tailwind CSS (CDN), Google Fonts (Fraunces + Work Sans), dan Tabler Icons (CDN).
   Tidak ada backend / fetch — sepenuhnya client-side.
-
-## Cara Menjalankan
-
-Cukup buka `index.html` langsung di browser (double-click atau `Live Server` di VS Code).
-Tidak memerlukan server backend.
-
-## Yang Perlu Disesuaikan Sebelum Dikumpulkan
-
-- [ ] Ganti nama folder sesuai username kamu.
-- [ ] Cek ulang: apakah kode di atas masih terasa seperti "template"? Tambahkan sentuhan personal
-  (misalnya kategori pengeluaran, topik soal kuis, atau gaya visual) supaya tidak dianggap
-  copy-paste mentah dari contoh manapun.
-- [ ] Uji tiga tab, CRUD di masing-masing fitur, refresh halaman untuk pastikan data & tab tersimpan.
-- [ ] Uji tampilan responsive di DevTools (mode mobile) dan di layar desktop.
